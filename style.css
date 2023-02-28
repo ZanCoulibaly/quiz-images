@@ -17,7 +17,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #b22c33;
+    background: #141414;
 }
 
 ::selection {
@@ -147,10 +147,10 @@ p {
 .details button {
     cursor: pointer;
     font-size: 14px;
-    color: #b22c33;
+    color: #fff;
     border-radius: 4px;
     padding: 4px 11px;
-    background: #fff;
+    background: #b22c33;
     border: 2px solid #b22c33;
     transition: 0.3s ease;
 }
